@@ -1,0 +1,15 @@
+{
+    "name": "SH-SWAT.Usimba_UniRx",
+    "references": [
+        "GUID:55d0bebcdabb60143a76e8fc153c4f39",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

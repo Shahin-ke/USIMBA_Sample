@@ -1,0 +1,20 @@
+{
+    "name": "SH-SWAT.Usimba_UniRx.Tests",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:55d0bebcdabb60143a76e8fc153c4f39",
+        "GUID:69d0915f9b9a5854785b4b8fd0a9c3ac",
+        "GUID:b3935ede226761f4ca1de7d1381b05ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

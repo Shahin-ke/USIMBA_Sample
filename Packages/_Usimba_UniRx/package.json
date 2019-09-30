@@ -1,0 +1,18 @@
+{
+  "name": "com.sh-swat.usimba_unirx",
+  "version": "0.0.0",
+  "displayName": "Unity Simple MessageBus With UniRx",
+  "description": "Extend Usimba with UniRx",
+  "unity": "2019.2",
+  "unityRelease": "5f1",
+  "keywords": [
+    "MessageBus",
+    "Usimba",
+    "UniRx"
+  ],
+  "author": {
+    "name": "sh-swat",
+    "email": "shahin_ke@Hotmail.com",
+    "url": "https://github.com/SH-SWAT/Usimba"
+  }
+}
