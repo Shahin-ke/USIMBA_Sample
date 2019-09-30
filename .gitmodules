@@ -1,0 +1,8 @@
+[submodule "Packages/Usimba"]
+	path = Packages/Usimba
+	url = https://github.com/SH-SWAT/USIMBA.git
+	branch = Init
+[submodule "Packages/Usimba_UniRx"]
+	path = Packages/Usimba_UniRx
+	url = https://github.com/SH-SWAT/USIMBA_UniRx.git
+	branch = Init
